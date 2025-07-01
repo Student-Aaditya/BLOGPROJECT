@@ -26,7 +26,7 @@ const dburl = process.env.ATLAS_DB;
 const port = 8020;
 //for different type of blog
 const BLOG = require("./Model/edit.js");
-const TECH=require("./Model/tech,.js");
+const TECH=require("./Model/tech.js");
 const CRIC=require("./Model/cric.js");
 const GEN=require("./Model/gen.js");
 const NAT=require("./Model/nature.js");
